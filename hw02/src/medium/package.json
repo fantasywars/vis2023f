@@ -1,0 +1,14 @@
+{
+  "name": "44dbaabdd262e3aa",
+  "main": "44dbaabdd262e3aa@33.js",
+  "version": "33.0.0",
+  "homepage": "https://observablehq.com/d/44dbaabdd262e3aa",
+  "author": {
+    "name": "北科大-劉萬弘's Workspace",
+    "url": "https://observablehq.com/@bei-ke-da-liu-wan-hong-ws"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
